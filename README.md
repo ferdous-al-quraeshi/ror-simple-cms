@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is a "homework" version of the Lynda.com's "Ruby on Rails 5: Essential Training" by Kevin Skoglund. Throughout this tuts, we'll try to build a simple CMS depending on the techs as specified below :)
 
-Things you may want to cover:
+### Stacks with version:
 
-* Ruby version
+* Ruby version: 2.5.0 (*x86_64-linux*)
 
-* System dependencies
+* Rails version: 5.1.5
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* MySQL version: mysql2 (0.4.10)
